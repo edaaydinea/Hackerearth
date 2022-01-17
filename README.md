@@ -6,7 +6,7 @@
 
 # Hackerearth | Practice, Tutorials & Interview Preparation Solutions
 
-This repository consists of solutions to Hackerearth **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, **C++**, and **Java**.
+This repository consists of solutions to Hackerearth **practice**, **tutorials**, and **interview preparation** problems with **Python**, **SQL**, **C++**, and **Java**.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/edaaydinea/Hackerearth)](https://github.com/edaaydinea/Hackerearth/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/edaaydinea/Hackerearth)](https://github.com/edaaydinea/Hackerearth/archive/master.zip)
